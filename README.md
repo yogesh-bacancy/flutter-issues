@@ -4,6 +4,6 @@
 
 ---
         
-|  No |  Questions       |
+|  No |  Issues       |
 |-------|------------------|
 | 01 | <a href="https://github.com/yogesh-bacancy/flutter-issues/blob/main/Issue-1.md">Manifest merger failed : Attribute data@scheme at AndroidManifest.xml requires a placeholder substitution but no value for \<appAuthRedirectScheme\> is provided.</a> |
